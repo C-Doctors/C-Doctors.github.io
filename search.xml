@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>51单片机</title>
+    <url>/2020/10/10/51%E5%8D%95%E7%89%87%E6%9C%BA/</url>
+    <content><![CDATA[<h2 id="51单片机"><a href="#51单片机" class="headerlink" title="51单片机"></a>51单片机</h2><h2 id="总是被模仿-从未被超越"><a href="#总是被模仿-从未被超越" class="headerlink" title="总是被模仿 从未被超越"></a>总是被模仿 从未被超越</h2><p><strong>MCS-51</strong> 集成<strong>8位</strong>CPU、<strong>4K字节</strong>ROM、<strong>128字节</strong>RAM、<strong>4个8位</strong>并口、<strong>1个全双工</strong>串行口、<strong>2个16位</strong>定时/计数器。寻址范围<strong>64K</strong>，并有控制功能较强的布尔处理器</p>
+<p><strong>单片机种类:</strong> atmel、stc、pic、avr、凌阳、80C51、arm 等</p>
+<p><strong>单片机TTL电平</strong>  高 +5v 、低 0V</p>
+<p><strong>RS232电平</strong> 高 -12V   低 +12V </p>
+]]></content>
+      <tags>
+        <tag>51单片机系列</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/10/10/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
